@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 h1{
     color:brown;
 }
@@ -218,8 +218,12 @@ font-family: 'Courier Prime', monospace;
 <style>
 .mySlides {display:none;}
 </style>
-=======
+
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
 .fa-anchor,.fa-coffee {font-size:200px}
->>>>>>> 9240e722c4f349e7cd1ab292456fb00338e01343
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+
